@@ -3,7 +3,7 @@
 page in the project.</p>
 
 <h2>Description</h2>
-I wanted my project to help the user in signing up directly through his GoogleID, so that it'll save their time. I used passport.js in this process, 
+I wanted my project to help the user in signing up directly through their GoogleID, so that it'll save their time. I used passport.js in this process, 
 going on their official website i learnt the procedure of the requiring passport.js, we have other applications too for signing up like facebook,
 Twitter, github etc, I used Google.
 <br></br>
@@ -18,7 +18,7 @@ connected the files links of user authentication and login through buttons.
 Finally! we have a file app.js which is the base of the project used for connecting and requiring every file for rendering and routing, connecting 
 database and at last but not the least giving the port through, storing the port in a env file and requiring it on top.
     
-<h2>Depencies</h2>
+<h2>Dependencies</h2>
 Install npm package in your project through "npm init -y" and then install these dependencies :
 <li>express</li>
 <li>mongoose</li>
