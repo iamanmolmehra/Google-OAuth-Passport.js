@@ -17,7 +17,7 @@ connected the files links of user authentication and login through buttons.
 <br></br>
 Finally! we have a file app.js which is the base of the project used for connecting and requiring every file for rendering and routing, connecting 
 database and at last but not the least giving the port through, storing the port in a env file and requiring it on top.
-
+    
 <h2>Depencies</h2>
 Install npm package in your project through "npm init -y" and then install these dependencies :
 <li>express</li>
@@ -46,4 +46,4 @@ Anmol Mehra<br>
 [Here is the link for Google-OAuth](https://console.cloud.google.com/)<br>
 [Here is the link for correctling your errors](https://www.stackoverflow.com)<br>
 <br></br>
-THANK YOU, HAPPY CODING :)
+THANK YOU, HAPPY CODING :)    
